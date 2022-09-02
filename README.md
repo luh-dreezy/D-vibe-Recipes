@@ -85,6 +85,7 @@ For support, email evansogonda@student.moringaschool.com.
 ## Feedback
 
 If you have any feedback, please reach out to us at @0798941123
+or email @issdreezy.com
 
 
 
