@@ -54,7 +54,17 @@ To run tests, run the following command
 
 ```bash
   npm run test
+
 ```
+
+## Deployment
+
+To deploy this project run
+
+```bash
+  npm run deploy
+```
+
 
 
 ## Used By
