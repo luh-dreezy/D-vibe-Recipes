@@ -19,6 +19,8 @@ The project is about a recipe app that provides recipes for any type of meal one
 
 *The app is fast and has all variety of recipes though limited to 20 recipes per search.
 
+*Its not limited to anyone nor is it age restricted.
+
 ## 🔗 Links
 [![API used](https://img.shields.io/badge/api_fetched_from-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://developer.edamam.com/edamam-docs-recipe-api)
 [![icons_from](https://img.shields.io/badge/icons_from-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://ionic.io/ionicons/usage)
