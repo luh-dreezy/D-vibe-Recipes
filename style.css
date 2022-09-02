@@ -133,3 +133,7 @@ form ion-icon{
         font-size: 2rem;
     }
 }
+ion-icon{
+    width: 20px;
+    length:30px;
+}
