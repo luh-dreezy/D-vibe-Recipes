@@ -1,0 +1,15 @@
+{
+  "name": "d-vibe-recipies",
+  "version": "1.0.0",
+  "description": "This is an app to easen the struggle of having to access certain luxury meals from hotels and other places , instead it allows one to find recipes and make them from their homes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "codeship"
+  },
+  "repository": {
+    "type": "git",
+    "url": "D-Vibe Recipes"
+  },
+  "author": "Evans Ogonda",
+  "license": "ISC"
+}
