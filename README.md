@@ -87,10 +87,5 @@ For support, email evansogonda@student.moringaschool.com.
 If you have any feedback, please reach out to us at @0798941123
 
 
-## Tech Stack
-
-**Client:** React, Redux, TailwindCSS
-
-**Server:** Node, Express
 
 
