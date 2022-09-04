@@ -92,7 +92,10 @@ Please adhere to this project's `code of conduct`.
 * JAVASCRIPT
 
 # Screenshots
-<img src = "./assets">
+<img src = "./assets/pic1.png">
+<img src = "./assets/pic2.png">
+<img src = "./assets/pic3.png">
+<img src = "./assets/pic4.png">
 
 
 ## Support
